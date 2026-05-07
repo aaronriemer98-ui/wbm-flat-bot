@@ -13,5 +13,5 @@ loc_filter:
 max_rent: '1300'
 min_rooms: '2'
 min_sqm: '50'
-net_income: '4400'
+net_income: '3100'
 wbs: 'no'
