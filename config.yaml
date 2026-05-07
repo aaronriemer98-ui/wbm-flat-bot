@@ -1,7 +1,7 @@
 email: johndoe@example.com
 first_name: John
 last_name: Doe
-kw_filter: ['Balkon', 'Aufzug']
+kw_filter: []
 loc_filter:
 - '10'
 - '120'
